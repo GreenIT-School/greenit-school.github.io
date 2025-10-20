@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Edition 2025
+title: 2025
 permalink: /2025/
 ---
 

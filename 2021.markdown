@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Edition 2021
+title: 2021
 permalink: /2021/
 ---
 

@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+L'école d'été Green IT - Numérique Responsable, est une école thématique pour former les ingénieurs, chercheurs, développeurs et les acteurs académiques et industriels, aux enjeux, outils et solutions autour du Green IT.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+L’objectif de cette école d’été est d'inviter les meilleurs experts scientifiques en Green IT du moment à venir partager l’état des connaissances et de la pratique avec ceux qui font et feront le numérique responsable de demain.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+L’école invite des intervenants variés (enseignants-chercheurs, chercheurs et professionnels), reconnus dans le domaine du numérique responsable, du Green IT, de l’énergie (matérielle et logicielle) et des data centers et du cloud. Ces experts viennent d’instituts, associations et entreprises françaises et européennes.

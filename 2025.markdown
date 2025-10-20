@@ -1,0 +1,9 @@
+---
+layout: page
+title: Edition 2025
+permalink: /2025/
+---
+
+L'édition 2025 de l'école d'été Green IT a eu lieu du 23/06/2024 au 27/06/2024 à Rennes.
+
+Page de l'école : [https://ecolegreenit25.sciencesconf.org//](https://ecolegreenit25.sciencesconf.org/)

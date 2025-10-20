@@ -1,0 +1,9 @@
+---
+layout: page
+title: Edition 2022
+permalink: /2022/
+---
+
+L'édition 2022 de l'école d'été Green IT a eu lieu du 20/06/2022 au 24/06/2022 à Anglet.
+
+Page de l'école : [https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2022.html](https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2022.html)

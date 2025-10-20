@@ -1,0 +1,9 @@
+---
+layout: page
+title: Edition 2023
+permalink: /2023/
+---
+
+L'édition 2023 de l'école d'été Green IT a eu lieu du 19/06/2023 au 23/06/2023 à Pau.
+
+Page de l'école : [https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2023.html](https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2023.html)

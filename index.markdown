@@ -21,4 +21,4 @@ L’école invite des intervenants variés (enseignants-chercheurs, chercheurs e
 Cette école a été fondée en 2021 par [Adel Noureddine](https://www.noureddine.org/) et [Olivier Le Goaër](https://olegoaer.perso.univ-pau.fr/), et est actuellement gérée par un **comité de pilotage** formé de :
 - [Adel Noureddine](https://www.noureddine.org/), Professeur des Universités à Université Paris Nanterre
 - [Olivier Le Goaër](https://olegoaer.perso.univ-pau.fr/), Maître de Conférences HDR à Université de Pau et des Pays de l'Adour
-- [Jean-Marc Menaud](http://menaud.fr/), Professeur des Universités à IMT Atlantique, Nantes
+- [Jean-Marc Menaud](https://www.menaud.fr/), Professeur des Universités à IMT Atlantique, Nantes

@@ -5,20 +5,20 @@
 layout: home
 ---
 
-L'école d'été Green IT - Numérique Responsable, est une école thématique pour former les ingénieurs, chercheurs, développeurs et les acteurs académiques et industriels, aux enjeux, outils et solutions autour du Green IT.
+The Green IT Summer School is a thematic school designed to train engineers, researchers, developers, and academic and industrial stakeholders on the challenges, tools, and solutions surrounding Green IT.
 
-L’objectif de cette école d’été est d'inviter les meilleurs experts scientifiques en Green IT du moment à venir partager l’état des connaissances et de la pratique avec ceux qui font et feront le numérique responsable de demain.
+The goal of this summer school is to invite leading scientific experts in Green IT to share the current state of knowledge and best practices with those who are shaping and will shape the sustainable computing of tomorrow.
 
-L’école invite des intervenants variés (enseignants-chercheurs, chercheurs et professionnels), reconnus dans le domaine du numérique responsable, du Green IT, de l’énergie (matérielle et logicielle) et des data centers et du cloud. Ces experts viennent d’instituts, associations et entreprises françaises et européennes.
+The school invites a diverse range of speakers (professors, researchers, and professionals) recognized in the fields of sustainable computing, Green IT, energy (hardware and software), and data centers and cloud computing. These experts come from French, European and worldwide institutions, associations, and industries.
 
-Éditions :
-- [2025 à Rennes](/2025)
-- [2024 à Nantes](/2024)
-- [2023 à Pau](/2023)
-- [2022 à Anglet](/2022)
-- [2021 à Anglet](/2021)
+Editions :
+- [2025 in Rennes, France](/2025)
+- [2024 in Nantes, France](/2024)
+- [2023 in Pau, France](/2023)
+- [2022 in Anglet, France](/2022)
+- [2021 in Anglet, France](/2021)
 
-Cette école a été fondée en 2021 par [Adel Noureddine](https://www.noureddine.org/) et [Olivier Le Goaër](https://olegoaer.perso.univ-pau.fr/), et est actuellement gérée par un **comité de pilotage** formé de :
-- [Adel Noureddine](https://www.noureddine.org/), Professeur des Universités à Université Paris Nanterre
-- [Olivier Le Goaër](https://olegoaer.perso.univ-pau.fr/), Maître de Conférences HDR à Université de Pau et des Pays de l'Adour
-- [Jean-Marc Menaud](https://www.menaud.fr/), Professeur des Universités à IMT Atlantique, Nantes
+The Green IT Summer School was founded in 2021 by [Adel Noureddine](https://www.noureddine.org/) and [Olivier Le Goaër](https://olegoaer.perso.univ-pau.fr/), and is currently managed by a **steering committee** made up of:
+- [Adel Noureddine](https://www.noureddine.org/), Full Professor at University Paris Nanterre and LIP6 (Sorbonne University), France
+- [Olivier Le Goaër](https://olegoaer.perso.univ-pau.fr/), Associate Professor HDR at University of Pau and Pays de l'Adour, France
+- [Jean-Marc Menaud](https://www.menaud.fr/), Full Professor at IMT Atlantique, France

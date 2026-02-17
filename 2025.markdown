@@ -7,3 +7,11 @@ permalink: /2025/
 The 2025 edition of the Green IT Summer School took place from 23/06/2025 to 27/06/2025 in Rennes, France.
 
 School's webpage (in French): [https://ecolegreenit25.sciencesconf.org//](https://ecolegreenit25.sciencesconf.org/)
+
+Local organization committee:
+- Nicolas Beuve
+- Maxime Pelcat
+- Muriel Pressigout
+- Jean-Marc Menaud
+- Adel Noureddine
+- Olivier Le Goaër

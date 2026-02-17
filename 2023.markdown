@@ -7,3 +7,7 @@ permalink: /2023/
 The 2023 edition of the Green IT Summer School took place from 19/06/2023 to 23/06/2023 in Pau, France.
 
 School's webpage (in French): [https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2023.html](https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2023.html)
+
+Local organization committee:
+- Adel Noureddine
+- Olivier Le Goaër

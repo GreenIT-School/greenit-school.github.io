@@ -7,3 +7,7 @@ permalink: /2022/
 The 2022 edition of the Green IT Summer School took place from 20/06/2022 to 24/06/2022 in Anglet, France.
 
 School's webpage (in French): [https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2022.html](https://formation.univ-pau.fr/fr/catalogue/summer-winter-schools/green-it-numerique-responsable/edition2022.html)
+
+Local organization committee:
+- Adel Noureddine
+- Olivier Le Goaër

@@ -12,6 +12,7 @@ The goal of this summer school is to invite leading scientific experts in Green 
 The school invites a diverse range of speakers (professors, researchers, and professionals) recognized in the fields of sustainable computing, Green IT, energy (hardware and software), and data centers and cloud computing. These experts come from French, European and worldwide institutions, associations, and industries.
 
 Editions :
+- **[2026 in Paris, France](/2026)** (International summer school in English)
 - [2025 in Rennes, France](/2025)
 - [2024 in Nantes, France](/2024)
 - [2023 in Pau, France](/2023)

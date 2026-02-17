@@ -4,6 +4,6 @@ title: 2024
 permalink: /2024/
 ---
 
-The 2024 edition of the Green IT Summer School took place from 10/06/2022 to 14/06/2022 in Nantes, France.
+The 2024 edition of the Green IT Summer School took place from 10/06/2024 to 14/06/2024 in Nantes, France.
 
 School's webpage (in French): [https://ecolegreenit.ls2n.fr/](https://ecolegreenit.ls2n.fr/)

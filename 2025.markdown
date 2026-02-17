@@ -4,6 +4,6 @@ title: 2025
 permalink: /2025/
 ---
 
-The 2025 edition of the Green IT Summer School took place from 23/06/2022 to 27/06/2022 in Rennes, France.
+The 2025 edition of the Green IT Summer School took place from 23/06/2025 to 27/06/2025 in Rennes, France.
 
 School's webpage (in French): [https://ecolegreenit25.sciencesconf.org//](https://ecolegreenit25.sciencesconf.org/)
